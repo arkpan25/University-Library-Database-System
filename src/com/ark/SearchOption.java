@@ -1,4 +1,4 @@
-package com.leo;
+package com.ark;
 
  public class SearchOption{
 	String searchType;

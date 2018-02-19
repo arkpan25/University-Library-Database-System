@@ -11,7 +11,7 @@
  *               "Fundamentals of Databse Design, 7/E" by Elmasri and Navathe.
  */
 
-package com.leo;
+package com.ark;
 import java.sql.*;
 import java.util.Vector;
 

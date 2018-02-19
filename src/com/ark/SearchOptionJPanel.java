@@ -1,11 +1,11 @@
-package com.leo;
+package com.ark;
 
 import java.awt.Choice;
 import java.awt.GridLayout;
 import java.awt.TextField;
 import javax.swing.JPanel;
 
-import com.leo.SearchOption; 
+import com.ark.SearchOption; 
 
  public class SearchOptionJPanel extends JPanel{
 	

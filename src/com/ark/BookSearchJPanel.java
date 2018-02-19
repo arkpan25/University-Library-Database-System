@@ -1,4 +1,4 @@
-package com.leo;
+package com.ark;
 
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
@@ -13,7 +13,7 @@ import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.*;
 
-import com.leo.SearchOption;
+import com.ark.SearchOption;
 
 public class BookSearchJPanel extends JPanel{
 	private static final long serialVersionUID = 8515983161365026697L;
